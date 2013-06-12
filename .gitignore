@@ -2,3 +2,5 @@
 *.iml
 /.settings
 /.project
+*.class
+*.jar
